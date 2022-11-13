@@ -4,13 +4,13 @@ Hi 👋 My name is Grian Gajila
 Front End Web Developer/Designer
 --------------------------------
 
-I'm Grian from Mindoro Philippines, I love designing since I am previously finished my lesson in front end development from <href="https://codecademy.com" Codecademy> for free, and I'm enjoy in learning my new interesting programming languages which is "c sharp".
+I'm Grian from Mindoro Philippines, I love designing since I am previously finished my lesson in front end development from Codecademy for free, and I'm enjoy in learning my new interesting programming languages which is "c sharp".
 
 * 🖥️  See my portfolio at [First Portfolio](http://yan-gajila.github.io/My-First-Portfolio)
 * ✉️  You can contact me at [yangajila@gmail.com](mailto:yangajila@gmail.com)
 * 🧠  I'm learning C# and Database
 
-### Skills
+### Languages and Tools
 
 
 <p align="left">
@@ -22,8 +22,15 @@ I'm Grian from Mindoro Philippines, I love designing since I am previously finis
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+ <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+### Currently learning in:
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
 
 ### Socials
 
