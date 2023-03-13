@@ -4,7 +4,7 @@ Hi 👋 My name is Grian Gajila
 Front End Web Developer/Designer
 --------------------------------
 
-I'm Grian from Mindoro Philippines, I love designing since I am previously finished my lesson in front end development from Codecademy for free, and I'm enjoy in learning my new interesting programming languages which is "c sharp".
+I'm Grian from Mindoro Philippines, I love designing since I am previously finished my lesson in front end development from  freecodecamp, and I'm enjoy in learning new interesting programming language "c sharp".
 
 * 🖥️  See my portfolio at [First Portfolio](http://yan-gajila.github.io/My-First-Portfolio)
 * ✉️  You can contact me at [yangajila@gmail.com](mailto:yangajila@gmail.com)
