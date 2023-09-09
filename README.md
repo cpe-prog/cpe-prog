@@ -9,16 +9,14 @@
 
 #
 
-## ⚡ Personal projects
+### ⚡ Personal projects
 
-<P align="left">
    <a decoration="none" href="https://sudoku-game.pages.dev">
       Suduko
    </a>
    <a href="https://cpedevgame.pages.dev">
    Gecomtech
    </a>
-</P>
 
 ---
 
@@ -52,6 +50,7 @@
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=powershell" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ps" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
+<br/>
 
 #
 
