@@ -44,7 +44,6 @@
 
 ### 🧰 Tools
 
-<br/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" />
@@ -65,14 +64,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 </div>
-
-#
-
-### Stats
-
-![Reboots's Used Languages](https://github-readme-stats.vercel.app/api/wakatime?username=cpe-prog&layout=compact)
-
-![Reboot's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpe-prog&show_icons=true&theme=gruvbox)
 
 #
 
