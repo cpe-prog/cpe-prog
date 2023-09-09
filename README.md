@@ -30,7 +30,7 @@
 
 ### 🧰 Tools
 
-<img align="left" alt="HTML" width="330px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,wasm,powershell,ps" />
+<img align="left" alt="HTML" width="330px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,wasm,powershell,ps,vscode" />
 <br/>
 
 #
@@ -42,3 +42,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 </div>
+
+### Stats
+
+![Reboot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cpe-prog&layout=compact)
+
+<h3 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Alright!+✌️;+Thankyou+for+visiting;" />
+</h3>
