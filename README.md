@@ -2,6 +2,12 @@
 
 **`Front End Web Developer(UI/UX/Responsive Web Design)`**
 
+<p align="left">
+<a href="https://linkedin.com/in/griangajila" target="blank">
+ <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
 ---
 
 ### 🧰 Languages, Frameworks and Databases
