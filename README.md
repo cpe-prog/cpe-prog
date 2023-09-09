@@ -45,9 +45,8 @@
 
 # Stats
 
-<div align="center">
+<div align="left">
 
 ![Reboot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=g-r-i-a-n&layout=compact)
-![Reboot's GitHub stats](https://github-readme-stats.vercel.app/api/?username=g-r-i-a-n&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </div>
