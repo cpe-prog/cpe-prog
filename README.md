@@ -23,14 +23,14 @@
 
 ### 🧰 Languages, Frameworks and Databases
 
-<img align="left" alt="HTML" width="400px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,nextjs,tailwind,sass,cs,dotnet,mongodb" />
+<img align="left" alt="HTML" width="430px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,nextjs,tailwind,sass,cs,dotnet,mongodb" />
 <br/>
 
 #
 
 ### 🧰 Tools
 
-<img align="left" alt="HTML" width="370px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,wasm,powershell,ps" />
+<img align="left" alt="HTML" width="350px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,wasm,powershell,ps" />
 <br/>
 
 #
@@ -48,7 +48,6 @@
 <div align="center">
 
 ![Reboot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=g-r-i-a-n&layout=compact)
-
 ![Reboot's GitHub stats](https://github-readme-stats.vercel.app/api/?username=g-r-i-a-n&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </div>
