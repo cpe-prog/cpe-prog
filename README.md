@@ -2,8 +2,9 @@
 
 # 🤖 Reboot
 
+<h1 color="yellow" align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;" />
-
+</h1>
 **`Front End Web Developer(UI/UX/Responsive Web Design)`**
 
 ## Personal projects
@@ -23,16 +24,14 @@ Gecomtech
 
 ### 🧰 Languages, Frameworks and Databases
 
-<img align="left" alt="HTML" width="250px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs" />
-<img align="left" alt="HTML" width="300px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nextjs,tailwind,sass,cs,dotnet,mongodb" />
+<img align="left" alt="HTML" width="400px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,nextjs,tailwind,sass,cs,dotnet,mongodb" />
 <br/>
 
 #
 
 ### 🧰 Tools
 
-<img align="left" alt="HTML" width="240px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker" />
-<img align="left" alt="HTML" width="300px" style="padding-right:10px;" src="https://skillicons.dev/icons?i="postman,vite,wasm,powershell,ps" />
+<img align="left" alt="HTML" width="400px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,wasm,powershell,ps" />
 <br/>
 
 ### 📫 Connect me!
