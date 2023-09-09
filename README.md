@@ -4,12 +4,17 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;" />
 </h1>
 
-<div>
+<p>
 
 **`Front End Web Developer(UI/UX/Responsive Web Design)`**
+
+</p>
+<p>
+
 **`Aspiring fullstack web developer`**
 
-</div>
+</p>
+
 #
 
 ### ⚡ Personal projects
