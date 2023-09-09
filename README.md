@@ -42,8 +42,17 @@
 
 ### 🧰 Tools
 
-<img align="left" alt="HTML" width="380px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,wasm,powershell,ps,vscode" />
 <br/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vite" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=wasm" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=powershell" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ps" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
 
 #
 
@@ -60,5 +69,5 @@
 ![Reboot's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpe-prog&show_icons=true&theme=gruvbox)
 
 <h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Alright!+✌️;+Thankyou+for+visiting🫂;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Alright!+✌️;+Thankyou+for+visiting!;" />
 </h3>
