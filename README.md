@@ -4,20 +4,26 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;" />
 </h1>
 
+<div>
+
 **`Front End Web Developer(UI/UX/Responsive Web Design)`**
 **`Aspiring fullstack web developer`**
 
+</div>
 #
 
 ### ⚡ Personal projects
 
+<p>
    <a decoration="none" href="https://sudoku-game.pages.dev">
       Suduko
    </a>
+</p>
+<p>
    <a href="https://cpedevgame.pages.dev">
-   Gecomtech
+      Gecomtech
    </a>
-
+</p>
 ---
 
 ### 🧰 Languages, Frameworks and Databases
