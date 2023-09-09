@@ -1,22 +1,21 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07"/>
-
-# 🤖 Reboot
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=g-r-i-a-n.g-r-i-a-n"/>
 
 <h1 color="yellow" align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;" />
 </h1>
+
 **`Front End Web Developer(UI/UX/Responsive Web Design)`**
 
 ## Personal projects
 
 <P align="left">
-Suduko
-   <a href="https://sudoku-game.pages.dev">
+   <a decoration="none" href="https://sudoku-game.pages.dev">
+      Suduko
    </a>
 </P>
 <P align="left">
-Gecomtech
    <a href="https://cpedevgame.pages.dev">
+   Gecomtech
    </a>
 </P>
 
