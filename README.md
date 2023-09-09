@@ -5,6 +5,7 @@
 </h1>
 
 **`Front End Web Developer(UI/UX/Responsive Web Design)`**
+**`Aspiring fullstack web developer`**
 
 ## Personal projects
 
