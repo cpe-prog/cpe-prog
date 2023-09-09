@@ -45,4 +45,13 @@
 
 # Stats
 
-<img width=325 align="left" src="https://github-readme-stats-g-r-i-a-n.vercel.app/api/top-langs/?username=g-r-i-a-n&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats-g-r-i-a-n.vercel.app/api/top-langs/?username=g-r-i-a-n&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<div align="center">
+
+![Reboot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=g-r-i-a-n&layout=compact)
+
+![Reboot's GitHub stats](https://github-readme-stats.vercel.app/api/?username=g-r-i-a-n&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+</div>
