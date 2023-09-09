@@ -7,7 +7,7 @@
 **`Front End Web Developer(UI/UX/Responsive Web Design)`**
 **`Aspiring fullstack web developer`**
 
-## Personal projects
+## ⚡ Personal projects
 
 <P align="left">
    <a decoration="none" href="https://sudoku-game.pages.dev">
@@ -43,8 +43,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 </div>
-
-### Stats
 
 <h3 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Alright!+✌️;+Thankyou+for+visiting🫂;" />
