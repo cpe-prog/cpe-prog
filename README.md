@@ -9,4 +9,12 @@
 
 ### 🧰 Tools
 
-<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git, github, linux, docker, postman, vite, wasm, powershell, ps " />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vite" />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=wasm" />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=powershell" />
+<img align="left" alt="HTML" width="200px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ps" />
