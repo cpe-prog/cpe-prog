@@ -31,7 +31,7 @@
 
 ### 🧰 Tools
 
-<img align="left" alt="HTML" width="350px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,wasm,powershell,ps,vscode" />
+<img align="left" alt="HTML" width="380px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vite,wasm,powershell,ps,vscode" />
 <br/>
 
 #
