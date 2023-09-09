@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=g-r-i-a-n.g-r-i-a-n"/>
 
-<img align="left" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;#ecb245" />
+<h1>
+<img align="left" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;" />
+</h1>
 
 **`Front End Web Developer(UI/UX/Responsive Web Design)`**
 
@@ -43,4 +45,4 @@
 
 # Stats
 
-<img width=325 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=325 align="left" src="https://github-readme-stats-g-r-i-a-n.vercel.app/api/top-langs/?username=g-r-i-a-n&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
