@@ -32,7 +32,7 @@
 
 ---
 
-### 🧰 Languages, Frameworks and Databases
+### 🧰 Languages, Frameworks and Database
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" />
