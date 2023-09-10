@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=g-r-i-a-n.g-r-i-a-n"/>
 
-<img width="100px" align="left" src="/CpeDev.png" />
+<img width="60px" align="left" src="/CpeDev.png" />
 
 # Reboot
 
