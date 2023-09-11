@@ -17,18 +17,7 @@
 
 #
 
-### ⚡ Personal projects
-
-<p>
-   <a decoration="none" href="https://sudoku-game.pages.dev">
-      Suduko
-   </a>
-</p>
-<p>
-   <a href="https://cpedevgame.pages.dev">
-      Gecomtech
-   </a>
-</p>
+### ⚡ About me
 
 ---
 
@@ -69,9 +58,13 @@
 ### 📫 You can reach me on
 
 <div>
-<a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+<a href="https://linkedin.com/in/griangajila" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
+<a href="https://gmail.com/griangajila2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit" />
+</a>
+ 
 </div>
 
 #
