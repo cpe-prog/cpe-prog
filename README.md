@@ -66,7 +66,7 @@
 
 #
 
-### 📫 Connect me on!
+### 📫 You can reach me on
 
 <div>
 <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
