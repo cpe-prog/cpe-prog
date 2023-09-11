@@ -17,7 +17,7 @@
 
 #
 
-### ⚡ About me
+### 💥 About me
 
 🧠 Slow Learner: Every single step of learning is commited to unwavering of progress
 
