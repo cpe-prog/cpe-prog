@@ -21,8 +21,6 @@
 
 🧠 Every single step of learning process is commited to unwavering progress
 
-⚡ Fun fact: I'm laughing every time I solved a little bit of problem 😁
-
 ---
 
 ### 🧰 Languages, Frameworks and Database
