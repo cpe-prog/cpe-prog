@@ -17,8 +17,6 @@
 
 #
 
-### 💥 About me
-
 🧠 Every single step of learning process is commited to unwavering progress
 
 ---
