@@ -9,7 +9,7 @@
 </p>
 <p>
 
-**`Aspiring fullstack web developer / Software Engineer`**
+**`Aspiring fullstack web developer`**
 
 </p>
 
