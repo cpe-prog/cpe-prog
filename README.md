@@ -44,7 +44,6 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vite" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=wasm" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mongodb" />
 <br/>
