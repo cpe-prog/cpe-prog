@@ -4,7 +4,7 @@
 
 <p>
 
-**`Front End Web Developer(UI/UX/Responsive Web Design)`**
+**`Junior Web Developer | fashionette in (UI/UX/Responsive Web Design)`**
 
 </p>
 <p>
