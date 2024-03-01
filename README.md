@@ -28,6 +28,7 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=sass" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
+<br/>
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nextjs" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cs" />
