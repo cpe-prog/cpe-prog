@@ -70,6 +70,7 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=npm" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=powershell" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
 
 
 <br/>
