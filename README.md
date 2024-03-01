@@ -1,5 +1,5 @@
 <h1 style="color: yellow" align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=yellow&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=#FFFF00&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;" />
 </h1>
 
 <p>
@@ -28,7 +28,6 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=sass" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
-<br/>
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nextjs" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cs" />
@@ -50,6 +49,7 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vite" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=rider" />
+#
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mongodb" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=firebase" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=npm" />
