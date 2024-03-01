@@ -11,7 +11,14 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Grian+Gajila!;" />
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="150"/>
+</div>
+
 ### :man_technologist: About Me :
+- 💻 Currently, I'm working as a Frelance Web Developer, developing small projects and utilizing my knowledge in NextJs, React, MondoDB database and other tehcnologies to develop robust web applications.
+- ✍️ I also enjoy training my self to unfamiliar languages, where I can expand my skills and expertise.
+- ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 <p>
 
 **`Junior Web Developer | fashionette in (UI/UX/Responsive Web Design)`**
@@ -67,12 +74,12 @@
 
 <br/>
 
+#
 
 <div>
  
 </div>
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpe-prog&layout=compact&theme=vision-friendly-dark)](https://github.com/cpe-prog/github-readme-stats)
 
 #
 
