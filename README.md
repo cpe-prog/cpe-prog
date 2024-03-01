@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <div id="badges">
-     <a href="in/grian-gajila">
+     <a href="https://www.linkedin.com/in/grian-gajila/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
    </div>
@@ -79,8 +79,9 @@
 <div>
  
 </div>
-### :fire: My Stats :
 
+### :fire: My Stats :
+![cpe-prog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpe-prog&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 #
 
 <h3 align="center">
