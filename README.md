@@ -32,7 +32,7 @@
 
 #
 
-🧠 Every single step of learning process is commited to unwavering progress
+🧠 Every single step of learning process is commited to unwavering progress.
 
 ---
 
@@ -83,7 +83,11 @@
 </div>
 
 ### :fire: My Stats :
+
+<div align="center">
 ![cpe-prog's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpe-prog&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
+
 #
 
 <h3 align="center">
