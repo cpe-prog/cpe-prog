@@ -24,7 +24,6 @@
 **`Web Developer | fashionette in (UI/UX/Responsive Web Design)`**
 
 </p>
-#
 
 🧠 Every single step of learning process is commited to unwavering progress.
 
