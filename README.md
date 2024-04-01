@@ -21,15 +21,9 @@
 - ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 <p>
 
-**`Junior Web Developer | fashionette in (UI/UX/Responsive Web Design)`**
+**`Web Developer | fashionette in (UI/UX/Responsive Web Design)`**
 
 </p>
-<p>
-
-**`Aspiring fullstack web developer`**
-
-</p>
-
 #
 
 🧠 Every single step of learning process is commited to unwavering progress.
