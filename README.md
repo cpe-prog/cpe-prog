@@ -16,7 +16,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- 💻 Currently, I'm working as a Frelance Web Developer, developing small projects and utilizing my knowledge in NextJs, React, MondoDB database and other tehcnologies to develop robust web applications.
+- 💻 Currently, I'm working as a Frelance Web Developer, developing small projects and utilizing my knowledge in ReactJS, NodeJS, NextJS, MondoDB database and other tehcnologies to develop robust web applications.
 - ✍️ I also enjoy training my self to unfamiliar languages, where I can expand my skills and expertise.
 - ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 <p>
