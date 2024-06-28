@@ -16,12 +16,12 @@
 </div>
 
 ### :man_technologist: About Me :
-- 💻 Currently, I'm working as a Frelance Web Developer, developing small projects and utilizing my knowledge in ReactJS, NodeJS, NextJS, MondoDB database and other tehcnologies to develop robust web applications.
+- 💻 Currently, I'm working as a Frelance Web Developer, developing small projects and utilizing my knowledge in ReactJS, NodeJS, NextJS, Svelte, SQLite and MondoDB database and other tehcnologies to develop robust web applications.
 - ✍️ I also enjoy training my self to unfamiliar languages, where I can expand my skills and expertise.
 - ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 <p>
 
-**`Full Stack Software Engineer | fashionette in (UI/UX/Responsive Web Design)`**
+**`Full Stack Developer / Software Engineer | fashionette in (UI/UX/Responsive Web Design)`**
 
 </p>
 
@@ -46,6 +46,8 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=arduino" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=svelte" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=sass" />
+
 
 
 <br/>
@@ -66,6 +68,8 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=powershell" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=opencv" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bun" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=sqlite" />
 
 <br/>
 
