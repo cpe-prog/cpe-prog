@@ -21,7 +21,7 @@
 - ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 <p>
 
-**`Full Stack Developer / Software Engineer | fashionette in (UI/UX/Responsive Web Design)`**
+**`Full Stack Developer / Software Engineer | fashionate in (UI/UX/Responsive Web Design)`**
 
 </p>
 
