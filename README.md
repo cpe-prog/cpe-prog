@@ -16,7 +16,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- 💻 Currently working as a Frelance Web Developer.
+- 💻 Currently working as a Freelance Full-stack Developer and Full-time IT Instructor.
 - ✍️ I also enjoy training my self to unfamiliar languages, where I can expand my skills and expertise.
 - ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 <p>
