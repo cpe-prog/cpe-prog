@@ -37,7 +37,7 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ts" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=sass" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vite" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nextjs" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
@@ -47,18 +47,14 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dotnet" />
 
 
-
 <br/>
 
 #
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=gitlab" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ubuntu" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vite" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=rider" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=arduino" />
@@ -73,8 +69,6 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=firebase" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=opencv" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=npm" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=pnpm" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bun" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=powershell" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
 
