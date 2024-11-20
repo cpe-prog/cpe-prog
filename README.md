@@ -16,9 +16,10 @@
 </div>
 
 ### :man_technologist: About Me :
-- 💻 Currently working as a Freelance Full-stack Developer and Full-time IT Instructor.
-- ✍️ I also enjoy training my self to unfamiliar languages, where I can expand my skills and expertise.
+- 💻 I'm currently working as a Freelance Full-stack Developer and Full-time IT Instructor.
+- ✍️ I'm continues learning to unfamiliar techs and new updated frameworks, where I can expand my skills and expertise.
 - ⚡ I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
+- 📬 Get in touch! <a href="https://www.linkedin.com/in/grian-gajila/">Linkedin</a>
 <p>
 
 **`Full Stack Developer | Software Developer | Computer Engineer`**
@@ -40,11 +41,13 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vite" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nextjs" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=svelte" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cs" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dotnet" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=flutter" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dart" />
 
 
 <br/>
@@ -53,7 +56,6 @@
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ubuntu" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=rider" />
