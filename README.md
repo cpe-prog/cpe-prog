@@ -25,6 +25,8 @@
 <img align="left" alt="NEXT" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nextjs" />
 <img align="left" alt="NODE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nodejs" />
 
+#
+
 ### :hammer_and_wrench: Other techs :
 <img align="left" alt="CS" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=cs" />
 <img align="left" alt="NET" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=dotnet" />
