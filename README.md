@@ -24,6 +24,7 @@
 <img align="left" alt="REACT" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=react" />
 <img align="left" alt="NEXT" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nextjs" />
 <img align="left" alt="NODE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nodejs" />
+<img align="left" alt="NODE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=express" />
 
 <br/>
 
