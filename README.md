@@ -1,5 +1,7 @@
-<img align="left" alt="NODE" width="25px" style="padding-right:6px;" src="https://avatars.githubusercontent.com/u/110281965?s=400&u=d2c15fa7f930619807046ad66015d7d7e948f8f8&v=4" /> 
-<h1>Grian Gajila</h1>
+<div style="display: flex; align-items: center; gap: 2px;">
+   <img align="left" alt="NODE" width="30px" style="padding-right:6px;" src="https://avatars.githubusercontent.com/u/110281965?s=400&u=d2c15fa7f930619807046ad66015d7d7e948f8f8&v=4" /> 
+   <h1>Grian Gajila</h1>
+</div>
 
 ### :man_technologist: About Me :
 - 💻 I'm currently working as a Freelance Full-stack Developer and Full-time IT Instructor.
