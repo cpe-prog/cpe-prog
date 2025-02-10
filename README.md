@@ -35,6 +35,7 @@
 <img align="left" alt="POSTMAN" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=postman" />
 <img align="left" alt="MONGODB" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=mongodb" />
 <img align="left" alt="FIREBASE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=firebase" />
+<img align="left" alt="FIREBASE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vscode" />
 
 <br/>
 
