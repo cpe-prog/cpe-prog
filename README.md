@@ -20,27 +20,27 @@
 
 ### :hammer_and_wrench: Tech Stack :
 
-<img align="left" alt="HTML" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=html" />
-<img align="left" alt="CSS" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=css" />
-<img align="left" alt="JS" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=js" />
-<img align="left" alt="TS" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=ts" />
-<img align="left" alt="TAILWIND" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=tailwind" />
-<img align="left" alt="REACT" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=react" />
-<img align="left" alt="NEXT" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nextjs" />
-<img align="left" alt="NODE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nodejs" />
-<img align="left" alt="NODE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=express" />
+<img align="left" alt="HTML" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=html" />
+<img align="left" alt="CSS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=css" />
+<img align="left" alt="JS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=js" />
+<img align="left" alt="TS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=ts" />
+<img align="left" alt="TAILWIND" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=tailwind" />
+<img align="left" alt="REACT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=react" />
+<img align="left" alt="NEXT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nextjs" />
+<img align="left" alt="NODE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=nodejs" />
+<img align="left" alt="NODE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=express" />
 
 <br/>
 
 ### :hammer_and_wrench: Other techs :
-<img align="left" alt="CS" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=cs" />
-<img align="left" alt="NET" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=dotnet" />
-<img align="left" alt="GIT" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=git" />
-<img align="left" alt="GITHUB" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=github" />
-<img align="left" alt="POSTMAN" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=postman" />
-<img align="left" alt="MONGODB" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=mongodb" />
-<img align="left" alt="FIREBASE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=firebase" />
-<img align="left" alt="FIREBASE" width="25px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vscode" />
+<img align="left" alt="CS" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=cs" />
+<img align="left" alt="NET" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=dotnet" />
+<img align="left" alt="GIT" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=git" />
+<img align="left" alt="GITHUB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=github" />
+<img align="left" alt="POSTMAN" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=postman" />
+<img align="left" alt="MONGODB" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=mongodb" />
+<img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=firebase" />
+<img align="left" alt="FIREBASE" width="35px" style="padding-right:6px;" src="https://skillicons.dev/icons?i=vscode" />
 
 <br/>
 
